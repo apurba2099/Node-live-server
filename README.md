@@ -28,7 +28,7 @@ try updated node js version install your pc.
 
 Open terminal and install npm live server with
 ```bash
-live-server -g
+npm i live-server -g
 ```
 After install npm live server then check on terminal and write
 ```bash
